@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120199889405",
+    "project_id": "fir-auth-7b0b8",
+    "storage_bucket": "fir-auth-7b0b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120199889405:android:f20a90fdfe525216d7d994",
+        "android_client_info": {
+          "package_name": "com.example.lixar_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120199889405-ubqloql532pnvmsmmtflib02oa7u03ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lixar_music",
+            "certificate_hash": "188141956355df934af0068960aed03b41d6a744"
+          }
+        },
+        {
+          "client_id": "120199889405-1gqebivi3hrrgbaeml8qm9etn3s11stl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vwpq_Hh-l6VQOLre1Kf4pnNzd8oNJH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120199889405-1gqebivi3hrrgbaeml8qm9etn3s11stl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
